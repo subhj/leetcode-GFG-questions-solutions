@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int reverse(int x) {
+    int reverse(int x) {  
         if (x==-2147483412)
         return -2143847412;
         if (x<=-1563847412 || x> 1534236468)
